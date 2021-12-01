@@ -1,0 +1,17 @@
+
+
+.button {
+    width: 24.7%;
+    height: 33%;
+    background-color:darkslategray;
+    border:rgb(212, 212, 211) solid 1px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  
+  .button > p {
+    color: rgb(212, 212, 211);
+  }
